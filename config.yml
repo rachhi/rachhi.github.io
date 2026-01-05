@@ -1,6 +1,6 @@
 # baseURL: "https://rchhibber.github.io/" 
 baseurl: "/" #name of GitHub repository
-url: "https://rchhibber.github.io" #custom url to be used instead of GitHub repository
+url: "https://rachhi.github.io" #custom url to be used instead of GitHub repository
 
 title: Raveena Chhibber | NSF Gradute Fellow | UW 
 theme: PaperMod
