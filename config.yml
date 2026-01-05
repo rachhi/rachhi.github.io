@@ -1,5 +1,5 @@
 baseURL: "https://rchhibber.github.io/" 
-title: Pascal Michaillat
+title: Raveena Chhibber | NSF Gradute Fellow
 theme: PaperMod
 pagination:
   pagerSize: 40
@@ -26,7 +26,7 @@ menu:
         #   weight: 5        
 
 params:
-    description: "Raveena Chhibber | NSF Gradute Fellow."
+    description: "Raveena Chhibber | NSF Gradute Fellow"
     author: Raveena Chhibber
     # googleAnalyticsID: "G-97G4MZ4061"
     images: ["cover.png"]
