@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "LaTeX Commands to Write Math" 
 date: 2024-06-26
 url: /e/
@@ -382,4 +382,4 @@ Finally, the exponential and logarithm functions are defined as follows:
 \RenewDocumentCommand{\exp}{g}{%
 \IfNoValueTF{#1}{\oldexp}%
 {\,{\oldexp}\of{#1}}}
-```
+``` -->
