@@ -58,13 +58,13 @@ params:
           imageUrl: "/picture.jpeg"
           imageWidth: 130
           imageHeight: 130
-          buttons:
-            # - name: Book
-            #   url: /18/
-            - name: Papers
-              url: /papers/
-            - name: Projects
-              url: /dashboard/  
+          # buttons:
+          #   # - name: Book
+          #   #   url: /18/
+          #   - name: Papers
+          #     url: /papers/
+          #   - name: Projects
+          #     url: /dashboard/  
             # - name: Courses
             #   url: /courses/
             # - name: Design
