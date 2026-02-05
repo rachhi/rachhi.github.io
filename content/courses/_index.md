@@ -1,8 +1,7 @@
 ---
 title: "Courses"
-author: ["Pascal Michaillat"]
-description: "Undergraduate and graduate courses on business cycles, economic slack, unemployment, macroeconomics, and mathematical methods."
+author: ["Raveena Chhibber"]
+description: "Graduate Coursework on data visualization and data-driven methods for data analysis."
 cover:
     image: "/courses.png"
-    alt: "Optimal monetary policy and government spending in the model of slack"
 ---
