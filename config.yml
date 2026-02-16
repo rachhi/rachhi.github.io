@@ -16,11 +16,11 @@ menu:
         #   url: /18/
         #   weight: 1
         - name: Papers
-          url: /papers/
-          weight: 2
-        - name: Dashboard
-          url: /dashboard/
-          weight: 3
+        #   url: /papers/
+        #   weight: 2
+        # - name: Dashboard
+        #   url: /dashboard/
+        #   weight: 3
         - name: Courses
           url: /courses/
         #   weight: 4
@@ -59,14 +59,14 @@ params:
           imageWidth: 130
           imageHeight: 130
           buttons:
-          #   # - name: Book
-          #   #   url: /18/
-            - name: Papers
-              url: /papers/
-            - name: Projects
-              url: /dashboard/  
-            # - name: Courses
-            #   url: /courses/
+            # - name: Book
+            #   url: /18/
+            # - name: Papers
+            #   url: /papers/
+            # - name: Projects
+            #   url: /dashboard/  
+            - name: Courses
+              url: /courses/
             # - name: Design
             #   url: /design/
 
@@ -75,14 +75,8 @@ params:
           url: /cv.pdf
         - name: Email
           url: mailto:rchhib@uw.edu
-        # - name: Location
-        #   url: /location/
-        # - name: Office Hours
-        #   url: /officehours/
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=TEgzSrkAAAAJ&hl=en
-        # - name: YouTube
-        #   url: https://www.youtube.com/@pmichaillat
         - name: GitHub
           url: https://github.com/rachhi
 
